@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  GoPark
+
+  Created by Michael Wong on 19/4/19.
+  Copyright © 2019 MWstudio. All rights reserved.
+*/
+
+"OnboardGetStartController_getStart" = "开启旅程";
+
+"ParkingController_title" = "地图";
+
+"ListController_title" = "附近";
+
+"ScannerController_title" = "扫描";
+
+"ReferenceController_title" = "参考";
+
+"ReferenceDetailsController_title" = "详情";
+
+"ReferenceImageController_title" = "图片";
+
+"SettingController_title" = "设置";
+"SettingController_aboutUs" = "关于我们";
+"SettingController_language" = "选择语言";
+
+"SettingLanguageController_title" = "语言";
+"SettingLanguageController_confirmEnglishAlert" = "更改语言为英语？";
+"SettingLanguageController_confirmChineseAlert" = "更改语言为中文？";
+"SettingLanguageController_denyAlert" = "这是你的当前语言";
+
+"SettingAboutUsController_title" = "关于我们";
